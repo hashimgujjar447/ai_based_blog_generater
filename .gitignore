@@ -24,6 +24,10 @@ ENV/
 env.bak/
 venv.bak/
 
+.env
+venv/
+__pycache__/
+
 # Editor/OS
 .vscode/
 .idea/
